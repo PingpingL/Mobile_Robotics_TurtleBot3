@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="lidar_filter" type="filter.py" name="lidar_filter" output="screen">
+	</node>
+</launch>

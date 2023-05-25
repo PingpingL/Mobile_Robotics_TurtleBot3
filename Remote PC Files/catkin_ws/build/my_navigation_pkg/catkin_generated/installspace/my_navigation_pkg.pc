@@ -1,0 +1,8 @@
+prefix=/home/prem/catkin_ws/install
+
+Name: my_navigation_pkg
+Description: Description of my_navigation_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmy_navigation_pkg
+Requires: roscp rospy std_msgs

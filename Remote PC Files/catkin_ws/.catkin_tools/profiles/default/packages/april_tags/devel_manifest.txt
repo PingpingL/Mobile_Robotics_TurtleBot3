@@ -1,0 +1,12 @@
+april_tags
+/home/prem/catkin_ws/devel/.private/april_tags/cmake.lock /home/prem/catkin_ws/devel/./cmake.lock
+/home/prem/catkin_ws/devel/.private/april_tags/lib/python3/dist-packages/april_tags/__init__.py /home/prem/catkin_ws/devel/lib/python3/dist-packages/april_tags/__init__.py
+/home/prem/catkin_ws/devel/.private/april_tags/lib/april_tags/image_converter.py /home/prem/catkin_ws/devel/lib/april_tags/image_converter.py
+/home/prem/catkin_ws/devel/.private/april_tags/lib/april_tags/cmake.lock /home/prem/catkin_ws/devel/lib/april_tags/cmake.lock
+/home/prem/catkin_ws/devel/.private/april_tags/lib/april_tags/april_tag_detector.py /home/prem/catkin_ws/devel/lib/april_tags/april_tag_detector.py
+/home/prem/catkin_ws/devel/.private/april_tags/lib/pkgconfig/april_tags.pc /home/prem/catkin_ws/devel/lib/pkgconfig/april_tags.pc
+/home/prem/catkin_ws/devel/.private/april_tags/share/roseus/ros/april_tags/manifest.l /home/prem/catkin_ws/devel/share/roseus/ros/april_tags/manifest.l
+/home/prem/catkin_ws/devel/.private/april_tags/share/april_tags/cmake/april_tags-msg-paths.cmake /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tags-msg-paths.cmake
+/home/prem/catkin_ws/devel/.private/april_tags/share/april_tags/cmake/april_tagsConfig.cmake /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tagsConfig.cmake
+/home/prem/catkin_ws/devel/.private/april_tags/share/april_tags/cmake/april_tagsConfig-version.cmake /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tagsConfig-version.cmake
+/home/prem/catkin_ws/devel/.private/april_tags/share/april_tags/cmake/april_tags-msg-extras.cmake /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tags-msg-extras.cmake

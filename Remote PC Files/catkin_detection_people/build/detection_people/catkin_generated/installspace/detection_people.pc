@@ -1,0 +1,8 @@
+prefix=/home/prem/catkin_detection_people/install
+
+Name: detection_people
+Description: Description of detection_people
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

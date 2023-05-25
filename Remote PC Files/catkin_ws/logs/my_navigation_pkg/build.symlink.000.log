@@ -1,0 +1,3 @@
+Symlinking /home/prem/catkin_ws/devel/lib/pkgconfig/my_navigation_pkg.pc
+Symlinking /home/prem/catkin_ws/devel/share/my_navigation_pkg/cmake/my_navigation_pkgConfig-version.cmake
+Symlinking /home/prem/catkin_ws/devel/share/my_navigation_pkg/cmake/my_navigation_pkgConfig.cmake

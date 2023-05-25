@@ -1,0 +1,10 @@
+  <launch>
+
+    <node name="tag_tf2_broadcaster" pkg="transforms" type="tag_tf2_broadcaster.py" respawn="false" output="screen" >
+    </node>
+    
+    <node name="tag0_broadcaster" pkg="transforms" type="tag0_broadcaster.py" respawn="false" output="screen" >
+    </node>
+
+    <node pkg="tf" type="static_transform_publisher" name="cam_link_broadcaster" args="0.03 0 0.1 0 0 0 base_link camera_link 100" />
+  </launch>

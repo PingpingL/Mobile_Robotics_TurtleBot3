@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="oogway_search_service" type="service.py" name="service_node" output="screen">
+	</node>
+	<node pkg="oogway_search_service" type="client.py" name="client_node" output="screen">
+	</node>
+</launch>

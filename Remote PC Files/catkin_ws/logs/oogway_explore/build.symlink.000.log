@@ -1,0 +1,5 @@
+Symlinking /home/prem/catkin_ws/devel/lib/pkgconfig/oogway_explore.pc
+Symlinking /home/prem/catkin_ws/devel/lib/oogway_explore/cmake.lock
+Symlinking /home/prem/catkin_ws/devel/lib/oogway_explore/rotate.py
+Symlinking /home/prem/catkin_ws/devel/share/oogway_explore/cmake/oogway_exploreConfig-version.cmake
+Symlinking /home/prem/catkin_ws/devel/share/oogway_explore/cmake/oogway_exploreConfig.cmake

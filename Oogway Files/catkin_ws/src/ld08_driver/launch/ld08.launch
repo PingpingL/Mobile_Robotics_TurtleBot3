@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="ld08_driver" type="ld08_driver" name="turtlebot3_lds" output="screen">
+    <param name="port" value="/dev/ttyUSB0"/>
+    <param name="frame_id" value="laser"/>
+    <param name="angle_min" value="0"/>
+    <param name="angle_max" value="45"/>
+  </node>
+</launch>

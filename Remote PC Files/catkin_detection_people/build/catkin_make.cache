@@ -1,0 +1,2 @@
+detection_people
+-DCATKIN_DEVEL_PREFIX=/home/prem/catkin_detection_people/devel -DCMAKE_INSTALL_PREFIX=/home/prem/catkin_detection_people/install -G Unix Makefiles

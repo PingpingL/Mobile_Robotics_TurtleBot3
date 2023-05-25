@@ -1,0 +1,10 @@
+Symlinking /home/prem/catkin_ws/devel/lib/python3/dist-packages/april_tags/__init__.py
+Symlinking /home/prem/catkin_ws/devel/lib/april_tags/image_converter.py
+Symlinking /home/prem/catkin_ws/devel/lib/april_tags/cmake.lock
+Symlinking /home/prem/catkin_ws/devel/lib/april_tags/april_tag_detector.py
+Symlinking /home/prem/catkin_ws/devel/lib/pkgconfig/april_tags.pc
+Symlinking /home/prem/catkin_ws/devel/share/roseus/ros/april_tags/manifest.l
+Symlinking /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tags-msg-paths.cmake
+Symlinking /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tagsConfig.cmake
+Symlinking /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tagsConfig-version.cmake
+Symlinking /home/prem/catkin_ws/devel/share/april_tags/cmake/april_tags-msg-extras.cmake

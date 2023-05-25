@@ -1,0 +1,8 @@
+prefix=/home/prem/catkin_ws/devel
+
+Name: oogway_explore
+Description: Description of oogway_explore
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

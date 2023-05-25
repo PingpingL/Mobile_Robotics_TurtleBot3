@@ -1,0 +1,7 @@
+<launch>
+
+
+	
+	<node pkg="oogway_explore" type="rotation.py" name="publisher_node" output="screen">
+	</node>
+</launch>
