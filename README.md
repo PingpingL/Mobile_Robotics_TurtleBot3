@@ -3,7 +3,7 @@ The goal of this project was to develop an autonomous reconnaissance robot, usin
 
 Credits:Abdulrahman Al-Badawi, Hariram Arni, Prem Sukhadwala, Joy Fakhry and Sriram Kodeeswaran
 
-Here is the link of our video:
+Here is the link of our video which is published on Prem's account:
 
 [![Watch video](https://markdown-videos.deta.dev/youtube/lUepFLHuZ8g)](https://youtu.be/lUepFLHuZ8g)
 
