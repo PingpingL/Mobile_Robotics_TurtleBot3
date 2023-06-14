@@ -5,5 +5,7 @@ Credits:Abdulrahman Al-Badawi, Hariram Arni, Prem Sukhadwala, Joy Fakhry and Sri
 
 Here is the link of our video which is published on Prem's account:
 
-[![Watch video](https://markdown-videos.deta.dev/youtube/lUepFLHuZ8g)](https://youtu.be/lUepFLHuZ8g)
+[![Watch video](https://img.youtube.com/vi/lUepFLHuZ8g/0.jpg)](https://youtu.be/lUepFLHuZ8g)
+
+(click to see the video)
 
